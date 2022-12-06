@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">android 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result">Результат</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_req_2">Введите второе число</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_req_1">Введите первое число</string>
+    <string name="btn_req_3">Выберите математическую операцию</string>
+    <string name="btn_op_plus">+</string>
+    <string name="btn_op_minus">-</string>
+    <string name="btn_op_mul">*</string>
+    <string name="btn_op_div">/</string>
+</resources>
